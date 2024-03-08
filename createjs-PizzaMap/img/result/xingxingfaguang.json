@@ -1,0 +1,29 @@
+{
+"images": ["xingxingfaguang.png"],
+"frames": [
+
+    [2, 2, 278, 338], 
+    [282, 2, 278, 338], 
+    [562, 2, 278, 338], 
+    [2, 342, 278, 338], 
+    [282, 342, 278, 338], 
+    [562, 342, 278, 338], 
+    [2, 682, 278, 338], 
+    [282, 682, 278, 338]
+],
+"animations": {
+    
+        "001":[0], 
+        "002":[1], 
+        "003":[2], 
+        "004":[3], 
+        "005":[4], 
+        "006":[5], 
+        "007":[6], 
+        "008":[7]
+},
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:b6f5666b08b760d6f431d6e16ff3ae55$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EasalJS"
+]
+}

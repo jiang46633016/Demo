@@ -1,0 +1,25 @@
+{
+
+"images": [
+    "ship.png"
+],
+
+"frames": [
+    [1, 1, 150, 150, 0, 0, 0],
+    [153, 1, 150, 150, 0, 0, 0],
+    [305, 1, 150, 150, 0, 0, 0],
+    [457, 1, 150, 150, 0, 0, 0],
+    [609, 1, 150, 150, 0, 0, 0],
+    [761, 1, 150, 150, 0, 0, 0]
+],
+
+"animations": {
+    "预合成 1": { "frames": [0, 1, 2, 3, 4, 5] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:670a317161c65f1bfdeb795cb08176c6:c340311f37c151dea51394a7f98aa3b6:25d6acd8d4906c9ff490804d476da0a8$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

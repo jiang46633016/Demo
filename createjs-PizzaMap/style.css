@@ -1,0 +1,45 @@
+
+@font-face {
+    font-family: katong;
+    src: url('../font/oaACu_GBK.eot?#iefix') format('embedded-opentype'),/* IE6-IE8 */
+    url('../font/oaACu_GBK.ttf') format('truetype'),
+    url('../font/oaACu_GBK.otf') format('truetype'),
+    url("../font/oaACu_GBK.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+html,body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: katong;
+}
+
+body {
+    margin: 0 0 0 0;
+    overflow: hidden;
+    position:relative;
+}
+
+img {
+    border: none;
+    display: none;
+}
+
+#canvas_parent {
+    position: relative;
+    max-width: 1366px;
+}
+
+#gameCanvas {
+    max-width: 1366px;
+}
+
+#coverImg {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    max-width: 1366px;
+    /*-webkit-user-select:none;*/
+    /*-webkit-touch-callout:none;*/
+
+}

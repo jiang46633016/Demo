@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "translate.png"
+],
+
+"frames": [
+    [1, 1, 122, 122, 0, 0, 0],
+    [125, 1, 122, 122, 0, 0, 0],
+    [249, 1, 122, 122, 0, 0, 0],
+    [373, 1, 122, 122, 0, 0, 0],
+    [497, 1, 122, 122, 0, 0, 0],
+    [621, 1, 122, 122, 0, 0, 0],
+    [745, 1, 122, 122, 0, 0, 0],
+    [869, 1, 122, 122, 0, 0, 0],
+    [993, 1, 122, 122, 0, 0, 0],
+    [1117, 1, 122, 122, 0, 0, 0]
+],
+
+"animations": {
+    "合成 1": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a53b2c60ac2717b7f5ddc9407fd840b5:8f6af2807ae345050282b09b12775368:7bd8cb68d62f850354be0b1dcf432bf8$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

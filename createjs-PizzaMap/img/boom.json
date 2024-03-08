@@ -1,0 +1,28 @@
+{
+
+"images": [
+    "boom.png"
+],
+
+"frames": [
+    [1, 1, 150, 150, 0, 0, 0],
+    [153, 1, 150, 150, 0, 0, 0],
+    [305, 1, 150, 150, 0, 0, 0],
+    [457, 1, 150, 150, 0, 0, 0],
+    [609, 1, 150, 150, 0, 0, 0],
+    [761, 1, 150, 150, 0, 0, 0],
+    [913, 1, 150, 150, 0, 0, 0],
+    [1065, 1, 150, 150, 0, 0, 0],
+    [1217, 1, 150, 150, 0, 0, 0]
+],
+
+"animations": {
+    "预合成 1": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:43adc8d0872f4872ee491e2759c1b0bb:09639c5e995357deb1746146af4e8afb:e47eedbaad58bc4f340c3001c2dcf4d3$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

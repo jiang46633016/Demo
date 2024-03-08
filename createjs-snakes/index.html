@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>贪吃蛇</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0 minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+</head>
+<body>
+
+<div id="canvas_parent">
+
+  <img id="coverImg" src="img/begin/coverImg.png">
+  <canvas id="gameCanvas" width="1024" height="672"></canvas>
+</div>
+
+<div id="speed_tipbox">
+  <div id="speed_tipMask"></div>
+  <div id="speed_tip">
+    <div id="speed_retry"></div>
+    <div id="speed_home"></div>
+  </div>
+</div>
+
+<script type="text/javascript" src="js/createjs-2015.11.26.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/loaderandsizer.js"></script>
+<script type ="text/javascript" src= "data/data.js"></script>
+<script type="text/javascript" src="js/preLoad.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    load();
+  })
+</script>
+</body>
+</html>
